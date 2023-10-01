@@ -1,0 +1,12 @@
+WebRemChannelHeader     N_WebRemChannelHeader
+CfmPacket               N_CfmPacket  
+ErpPacket			    N_ErpPacket  
+LbmPacket               N_LbmPacket  
+LtmPacket               N_LtmPacket  
+LbrPacket               N_LbrPacket  
+LtrPacket               N_LtrPacket  
+EmmPacket               N_EmmPacket  
+CcmPacket               N_CcmPacket  
+attribute_t             N_RaidusAttribute
+AUTH_HDR                N_RadiusAuthHdr
+T_lldp_leg              T_LldpLeg
